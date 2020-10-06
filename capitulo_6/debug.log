@@ -1,0 +1,1 @@
+SELECT * FROM Nota WHERE prioridad LIKE 'baja' ; ALTER USER current_user WITH PASSWORD '1234'; COMMIT ;--';
